@@ -9,4 +9,5 @@ seaborn
 fpdf2
 requests
 joblib
+catboost
 plotly
